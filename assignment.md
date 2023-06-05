@@ -9,7 +9,7 @@ Your tasks are as follows:
 1. Explore the structure of the API, query the API and understand the data returned. 
 2. Choose a city covered by the CityBikes API and retrieve all available bike stations in that city. 
 3. For each bike station, use the API to call the latitude, longitude and number of bikes. 
-4. Parse the JSON object into a Pandas dataframe. 
+4. Parse the JSON object into a Pandas dataframe.
 
 Complete the **city_bikes.ipynb** notebook to demonstrate how you executed the tasks above. 
 
